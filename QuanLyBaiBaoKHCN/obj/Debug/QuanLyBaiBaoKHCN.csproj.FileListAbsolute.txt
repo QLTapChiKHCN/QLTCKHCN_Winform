@@ -1,0 +1,46 @@
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+D:\study\đồ án NCKH\QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
