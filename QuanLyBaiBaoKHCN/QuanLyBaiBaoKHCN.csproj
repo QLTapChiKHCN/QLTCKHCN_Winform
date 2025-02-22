@@ -8,9 +8,10 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>QuanLyBaiBaoKHCN</RootNamespace>
     <AssemblyName>QuanLyBaiBaoKHCN</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -32,6 +33,24 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.2.1.1\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.SqlServer.ConnectionInfo\v4.0_16.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.SqlServer.Smo\v4.0_16.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.SqlServer.SmoExtended\v4.0_16.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="SunnyUI, Version=3.7.2.0, Culture=neutral, PublicKeyToken=27d7d2e821d97aeb, processorArchitecture=MSIL">
       <HintPath>..\packages\SunnyUI.3.7.2\lib\net40\SunnyUI.dll</HintPath>
     </Reference>
@@ -39,9 +58,27 @@
       <HintPath>..\packages\SunnyUI.Common.3.7.2\lib\net40\SunnyUI.Common.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Linq" />
     <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.7.1\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
     <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -66,11 +103,35 @@
     <Compile Include="BienTapVien\DangBai.Designer.cs">
       <DependentUpon>DangBai.cs</DependentUpon>
     </Compile>
+    <Compile Include="BienTapVien\FormPhanHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BienTapVien\FormPhanHoi.designer.cs">
+      <DependentUpon>FormPhanHoi.cs</DependentUpon>
+    </Compile>
     <Compile Include="BienTapVien\Form_Main.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="BienTapVien\Form_Main.Designer.cs">
       <DependentUpon>Form_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BienTapVien\Frm_YeuCauChinhSua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BienTapVien\Frm_YeuCauChinhSua.Designer.cs">
+      <DependentUpon>Frm_YeuCauChinhSua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BienTapVien\Frm_PhanHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BienTapVien\Frm_PhanHoi.Designer.cs">
+      <DependentUpon>Frm_PhanHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BienTapVien\KetQuaPhanBien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BienTapVien\KetQuaPhanBien.Designer.cs">
+      <DependentUpon>KetQuaPhanBien.cs</DependentUpon>
     </Compile>
     <Compile Include="BienTapVien\SoDuyet.cs">
       <SubType>Form</SubType>
@@ -84,11 +145,29 @@
     <Compile Include="BienTapVien\TaoSoTapChi.Designer.cs">
       <DependentUpon>TaoSoTapChi.cs</DependentUpon>
     </Compile>
+    <Compile Include="BienTapVien\ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BienTapVien\ThongKe.designer.cs">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BienTapVien\ThongKePhanBien.cs" />
     <Compile Include="CaiDat.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CaiDat.Designer.cs">
       <DependentUpon>CaiDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="data\QLTapChi_KHCN.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLTapChi_KHCN.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="FConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FConfig.designer.cs">
+      <DependentUpon>FConfig.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -98,11 +177,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QLTapChi_KHCN.designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>QLTapChi_KHCN.dbml</DependentUpon>
-    </Compile>
     <Compile Include="TongBienTap\DuyetBaiViet.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -136,14 +210,29 @@
     <EmbeddedResource Include="BienTapVien\Form_Main.resx">
       <DependentUpon>Form_Main.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="BienTapVien\Frm_YeuCauChinhSua.resx">
+      <DependentUpon>Frm_YeuCauChinhSua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BienTapVien\Frm_PhanHoi.resx">
+      <DependentUpon>Frm_PhanHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BienTapVien\KetQuaPhanBien.resx">
+      <DependentUpon>KetQuaPhanBien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BienTapVien\SoDuyet.resx">
       <DependentUpon>SoDuyet.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="BienTapVien\TaoSoTapChi.resx">
       <DependentUpon>TaoSoTapChi.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="BienTapVien\ThongKe.resx">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CaiDat.resx">
       <DependentUpon>CaiDat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FConfig.resx">
+      <DependentUpon>FConfig.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -156,6 +245,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="TongBienTap\DuyetBaiViet.resx">
       <DependentUpon>DuyetBaiViet.cs</DependentUpon>
@@ -169,9 +259,17 @@
     <EmbeddedResource Include="TrangChu.resx">
       <DependentUpon>TrangChu.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="data\QLTapChi_KHCN.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>QLTapChi_KHCN.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="data\QLTapChi_KHCN.dbml.layout">
+      <DependentUpon>QLTapChi_KHCN.dbml</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <Compile Include="Properties\Settings.Designer.cs">
@@ -179,14 +277,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="QLTapChi_KHCN.dbml">
-      <Generator>MSLinqToSQLGenerator</Generator>
-      <LastGenOutput>QLTapChi_KHCN.designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="QLTapChi_KHCN.dbml.layout">
-      <DependentUpon>QLTapChi_KHCN.dbml</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

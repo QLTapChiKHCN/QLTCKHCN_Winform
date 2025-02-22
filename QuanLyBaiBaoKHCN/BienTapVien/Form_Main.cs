@@ -8,12 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Sunny.UI;
+using QuanLyBaiBaoKHCN.data;
 
 namespace QuanLyBaiBaoKHCN.BienTapVien
 {
     public partial class Form_Main : UIForm
     {
         string MaND, TenND;
+        public Form_Main() { }
         public Form_Main(string MaND, string TenND)
         {
             InitializeComponent();
@@ -29,8 +31,11 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
         TaoSoTapChi Frm_TaoSoTapChi = null;
         DangBai Frm_DangBai = null;
         TrangChu Frm_TrangChu = null;
-
-        void DongForm()
+        ThongKe Frm_ThongKe = null;
+        Frm_PhanHoi Frm_PhanHoi = null;
+        KetQuaPhanBien Frm_ketqua = null;
+        CaiDat Frm_CaiDat = null;
+        public void DongForm()
         {
             if (Frm_SoDuyet != null)
             {
@@ -57,14 +62,45 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
                 panelForm.Controls.Remove(Frm_TrangChu);
                 Frm_TrangChu = null;
             }
+            if (Frm_ThongKe != null)
+            {
+                panelForm.Controls.Remove(Frm_ThongKe);
+                Frm_ThongKe = null;
+            }
+            if (Frm_PhanHoi != null)
+            {
+                panelForm.Controls.Remove(Frm_PhanHoi);
+                Frm_PhanHoi = null;
+            }
+            if(Frm_ketqua !=null)
+            {
+                panelForm.Controls.Remove(Frm_ketqua);
+                Frm_ketqua= null;
+            }
+            if (Frm_CaiDat != null)
+            {
+                panelForm.Controls.Remove(Frm_CaiDat);
+                Frm_CaiDat = null;
+            }
         }
+        public void MoForm_ChonPB()
+        {
+            panelForm.Controls.Remove(Frm_ketqua);
+            ChonPhanBien chonpb = new ChonPhanBien();
+            chonpb.TopLevel = false;
+            chonpb.Dock = DockStyle.Fill;
+            panelForm.Controls.Add(chonpb);
+            panelForm.Tag = chonpb;
+            chonpb.Show();
 
+            Frm_ChonPhanBien = chonpb;
+        }
         private void btnSoDuyet_Form_Click(object sender, EventArgs e)
         {
             DongForm();
             if (Frm_SoDuyet == null)
             {
-                Frm_SoDuyet = new SoDuyet();
+                Frm_SoDuyet = new SoDuyet(MaND);
                 Frm_SoDuyet.TopLevel = false;
                 panelForm.Controls.Add(Frm_SoDuyet);
                 Frm_SoDuyet.Dock = DockStyle.Fill;
@@ -90,6 +126,23 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             else
             {
                 Frm_ChonPhanBien.Activate();
+            }
+        }
+
+        private void btnThongKe_Form_Click(object sender, EventArgs e)
+        {
+            DongForm();
+            if (Frm_ThongKe == null)
+            {
+                Frm_ThongKe = new ThongKe();
+                Frm_ThongKe.TopLevel = false;
+                panelForm.Controls.Add(Frm_ThongKe);
+                Frm_ThongKe.Dock = DockStyle.Fill;
+                Frm_ThongKe.Show();
+            }
+            else
+            {
+                Frm_ThongKe.Activate();
             }
         }
 
@@ -126,12 +179,76 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
                 Frm_DangBai.Activate();
             }
         }
+        private void btnXemPhanHoi_Form_Click(object sender, EventArgs e)
+        {
+            DongForm();
+            if (Frm_PhanHoi == null)
+            {
+                Frm_PhanHoi = new Frm_PhanHoi(MaND);
+                Frm_PhanHoi.TopLevel = false;
+                panelForm.Controls.Add(Frm_PhanHoi);
+                Frm_PhanHoi.Dock = DockStyle.Fill;
+                Frm_PhanHoi.Show();
+            }
+            else
+            {
+                Frm_PhanHoi.Activate();
+            }
+        }
+        private void btnCaiDat_Form_Click(object sender, EventArgs e)
+        {
+            DongForm();
+            if (Frm_CaiDat == null)
+            {
+                Frm_CaiDat = new CaiDat(this, null);
+                Frm_CaiDat.TopLevel = false;
+                panelForm.Controls.Add(Frm_CaiDat);
+                Frm_CaiDat.Dock = DockStyle.Fill;
+                Frm_CaiDat.Show();
+            }
+            else
+            {
+                Frm_CaiDat.Activate();
+            }
+        }
 
-        private void btnDangXuat_Click(object sender, EventArgs e)
+        public void btnDangXuat_Click(object sender, EventArgs e)
         {
             this.Close();
             Login login = new Login();
             login.Visible = true;
+        }
+
+        private void AbrirFormulario<MiForm>() where MiForm : Form, new()
+        {
+            DongForm();
+
+            Form main;
+            main = panelForm.Controls.OfType<MiForm>().FirstOrDefault();
+            if (main == null)
+            {
+                main = new MiForm { Owner = this };
+                main.TopLevel = false;
+                main.Dock = DockStyle.Fill;
+                panelForm.Controls.Add(main);
+                panelForm.Tag = main;
+                main.Show();
+                switch (main)
+                {
+                    case KetQuaPhanBien F_KQPB:
+                        Frm_ketqua = F_KQPB;
+                        break;
+                }
+            }
+            else
+            {
+                main.Activate();
+            }
+        }
+
+        private void btnKetqua_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario<KetQuaPhanBien>();
         }
 
         private void btnTrangChu_Form_Click(object sender, EventArgs e)
@@ -150,5 +267,7 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
                 Frm_TrangChu.Activate();
             }
         }
+
+        
     }
 }

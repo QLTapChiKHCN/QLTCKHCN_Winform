@@ -12,8 +12,8 @@ namespace QuanLyBaiBaoKHCN.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.4.0.0")]
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.10.0.0")]
+    public sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
         
@@ -23,24 +23,15 @@ namespace QuanLyBaiBaoKHCN.Properties {
             }
         }
         
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-O3NQ36D;Initial Catalog=QL_TCKHCN;Persist Security Info=True;" +
-            "User ID=sa;Password=123")]
-        public string QL_TCKHCNConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=;Initial Catalog=;Persist Security Info=True;User ID=;Password=")]
+        public string STRConn {
             get {
-                return ((string)(this["QL_TCKHCNConnectionString"]));
+                return ((string)(this["STRConn"]));
             }
-        }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-O3NQ36D;Initial Catalog=QL_TCKHCN;User ID=sa;Password=123")]
-        public string QL_TCKHCNConnectionString1 {
-            get {
-                return ((string)(this["QL_TCKHCNConnectionString1"]));
+            set {
+                this["STRConn"] = value;
             }
         }
     }

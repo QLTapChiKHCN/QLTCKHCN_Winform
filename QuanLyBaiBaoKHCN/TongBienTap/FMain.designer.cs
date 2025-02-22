@@ -28,21 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FMain));
             this.btnDuyetBai_Form = new Sunny.UI.UIPanel();
             this.btnDangXuat = new Sunny.UI.UIPanel();
             this.panelHoTen = new Sunny.UI.UIPanel();
             this.btnDuyetPhanBien_Form = new Sunny.UI.UIPanel();
             this.btnTrangChu_Form = new Sunny.UI.UIPanel();
             this.uiPanel2 = new Sunny.UI.UIPanel();
+            this.btnCaiDat_Form = new Sunny.UI.UIPanel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panelForm = new Sunny.UI.UIPanel();
             this.uiPanel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btnDuyetBai_Form
             // 
             this.btnDuyetBai_Form.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnDuyetBai_Form.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btnDuyetBai_Form.Location = new System.Drawing.Point(0, 147);
+            this.btnDuyetBai_Form.Location = new System.Drawing.Point(0, 264);
             this.btnDuyetBai_Form.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDuyetBai_Form.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnDuyetBai_Form.Name = "btnDuyetBai_Form";
@@ -83,7 +87,7 @@
             // 
             this.btnDuyetPhanBien_Form.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnDuyetPhanBien_Form.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btnDuyetPhanBien_Form.Location = new System.Drawing.Point(0, 210);
+            this.btnDuyetPhanBien_Form.Location = new System.Drawing.Point(0, 327);
             this.btnDuyetPhanBien_Form.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDuyetPhanBien_Form.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnDuyetPhanBien_Form.Name = "btnDuyetPhanBien_Form";
@@ -97,7 +101,7 @@
             // 
             this.btnTrangChu_Form.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnTrangChu_Form.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btnTrangChu_Form.Location = new System.Drawing.Point(0, 84);
+            this.btnTrangChu_Form.Location = new System.Drawing.Point(0, 201);
             this.btnTrangChu_Form.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnTrangChu_Form.MinimumSize = new System.Drawing.Size(1, 1);
             this.btnTrangChu_Form.Name = "btnTrangChu_Form";
@@ -110,6 +114,8 @@
             // uiPanel2
             // 
             this.uiPanel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(59)))), ((int)(((byte)(96)))), ((int)(((byte)(106)))));
+            this.uiPanel2.Controls.Add(this.btnCaiDat_Form);
+            this.uiPanel2.Controls.Add(this.pictureBox1);
             this.uiPanel2.Controls.Add(this.btnTrangChu_Form);
             this.uiPanel2.Controls.Add(this.btnDuyetPhanBien_Form);
             this.uiPanel2.Controls.Add(this.panelHoTen);
@@ -125,7 +131,31 @@
             this.uiPanel2.Name = "uiPanel2";
             this.uiPanel2.Size = new System.Drawing.Size(218, 757);
             this.uiPanel2.TabIndex = 7;
+            this.uiPanel2.Text = null;
             this.uiPanel2.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // btnCaiDat_Form
+            // 
+            this.btnCaiDat_Form.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCaiDat_Form.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.btnCaiDat_Form.Location = new System.Drawing.Point(0, 390);
+            this.btnCaiDat_Form.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnCaiDat_Form.MinimumSize = new System.Drawing.Size(1, 1);
+            this.btnCaiDat_Form.Name = "btnCaiDat_Form";
+            this.btnCaiDat_Form.Size = new System.Drawing.Size(218, 53);
+            this.btnCaiDat_Form.TabIndex = 6;
+            this.btnCaiDat_Form.Text = "Cài đặt";
+            this.btnCaiDat_Form.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnCaiDat_Form.Click += new System.EventHandler(this.btnCaiDat_Form_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(19, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(181, 179);
+            this.pictureBox1.TabIndex = 4;
+            this.pictureBox1.TabStop = false;
             // 
             // panelForm
             // 
@@ -137,6 +167,7 @@
             this.panelForm.Name = "panelForm";
             this.panelForm.Size = new System.Drawing.Size(924, 757);
             this.panelForm.TabIndex = 8;
+            this.panelForm.Text = null;
             this.panelForm.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // FMain
@@ -145,6 +176,7 @@
             this.ClientSize = new System.Drawing.Size(1144, 793);
             this.Controls.Add(this.panelForm);
             this.Controls.Add(this.uiPanel2);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FMain";
             this.Padding = new System.Windows.Forms.Padding(1, 35, 1, 1);
             this.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(72)))), ((int)(((byte)(68)))), ((int)(((byte)(74)))));
@@ -153,6 +185,7 @@
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ZoomScaleRect = new System.Drawing.Rectangle(19, 19, 907, 567);
             this.uiPanel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -165,5 +198,7 @@
         private Sunny.UI.UIPanel btnTrangChu_Form;
         private Sunny.UI.UIPanel uiPanel2;
         private Sunny.UI.UIPanel panelForm;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private Sunny.UI.UIPanel btnCaiDat_Form;
     }
 }

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Sunny.UI;
 using QuanLyBaiBaoKHCN.BienTapVien;
+using QuanLyBaiBaoKHCN.data;
 
 namespace QuanLyBaiBaoKHCN.TongBienTap
 {
@@ -28,7 +29,8 @@ namespace QuanLyBaiBaoKHCN.TongBienTap
         DuyetBaiViet Frm_DuyetBaiViet = null;
         DuyetPhanBien Frm_DuyetPhanBien = null;
         TrangChu Frm_TrangChu = null;
-        void DongForm()
+        CaiDat Frm_CaiDat = null;
+        public void DongForm()
         {
             if (Frm_DuyetBaiViet != null)
             {
@@ -44,6 +46,11 @@ namespace QuanLyBaiBaoKHCN.TongBienTap
             {
                 panelForm.Controls.Remove(Frm_TrangChu);
                 Frm_TrangChu = null;
+            }
+            if (Frm_CaiDat != null)
+            {
+                panelForm.Controls.Remove(Frm_CaiDat);
+                Frm_CaiDat = null;
             }
         }
         private void btnDuyetBai_Form_Click(object sender, EventArgs e)
@@ -97,7 +104,24 @@ namespace QuanLyBaiBaoKHCN.TongBienTap
             }
         }
 
-        private void btnDangXuat_Click(object sender, EventArgs e)
+        private void btnCaiDat_Form_Click(object sender, EventArgs e)
+        {
+            DongForm();
+            if (Frm_CaiDat == null)
+            {
+                Frm_CaiDat = new CaiDat(null, this);
+                Frm_CaiDat.TopLevel = false;
+                panelForm.Controls.Add(Frm_CaiDat);
+                Frm_CaiDat.Dock = DockStyle.Fill;
+                Frm_CaiDat.Show();
+            }
+            else
+            {
+                Frm_CaiDat.Activate();
+            }
+        }
+
+        public void btnDangXuat_Click(object sender, EventArgs e)
         {
             this.Close();
             Login login = new Login();

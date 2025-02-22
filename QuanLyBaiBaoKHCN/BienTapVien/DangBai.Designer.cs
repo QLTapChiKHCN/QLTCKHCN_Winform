@@ -29,18 +29,12 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btnXemFile = new Sunny.UI.UIButton();
-            this.grvBaiBao = new Sunny.UI.UIDataGridView();
-            this.MaBaiBao = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenBaiBao = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TieuDe = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NgayGui = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TrangThai = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cboChuyenMuc = new Sunny.UI.UIComboBox();
             this.uiLabel5 = new Sunny.UI.UILabel();
             this.cboNgonNgu = new Sunny.UI.UIComboBox();
@@ -51,22 +45,31 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.uiLabel2 = new Sunny.UI.UILabel();
             this.uiLabel1 = new Sunny.UI.UILabel();
             this.uiTitlePanel1 = new Sunny.UI.UITitlePanel();
+            this.txtMaBaiBao = new Sunny.UI.UITextBox();
+            this.btnDangBai = new Sunny.UI.UISymbolButton();
+            this.uiLabel9 = new Sunny.UI.UILabel();
+            this.AnhBia = new System.Windows.Forms.PictureBox();
+            this.dateNXB = new Sunny.UI.UIDatePicker();
+            this.uiLabel8 = new Sunny.UI.UILabel();
+            this.uiLabel7 = new Sunny.UI.UILabel();
             this.cboMaSoTapChi = new Sunny.UI.UIComboBox();
             this.uiLabel6 = new Sunny.UI.UILabel();
-            this.txtTenSoTapChi = new Sunny.UI.UITextBox();
-            this.uiLabel12 = new Sunny.UI.UILabel();
-            this.uiLabel7 = new Sunny.UI.UILabel();
-            this.uiComboBox1 = new Sunny.UI.UIComboBox();
-            this.uiDatePicker1 = new Sunny.UI.UIDatePicker();
-            this.uiLabel8 = new Sunny.UI.UILabel();
-            this.AnhBia = new System.Windows.Forms.PictureBox();
-            this.uiLabel9 = new Sunny.UI.UILabel();
-            this.dateNgayDang = new Sunny.UI.UIDatePicker();
-            this.uiLabel10 = new Sunny.UI.UILabel();
-            this.btnDangBai = new Sunny.UI.UISymbolButton();
-            ((System.ComponentModel.ISupportInitialize)(this.grvBaiBao)).BeginInit();
+            this.ChkLocNgay = new Sunny.UI.UICheckBox();
+            this.progressBar1 = new Sunny.UI.UIProcessBar();
+            this.grvBaiBao = new Sunny.UI.UIDataGridView();
+            this.MaBaiBao = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenBaiBao = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TieuDe = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenNgonNgu = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenChuyenMuc = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FileBaiViet = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NgayGui = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TrangThai = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaNgonNgu = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaChuyenMuc = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.uiTitlePanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.AnhBia)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grvBaiBao)).BeginInit();
             this.SuspendLayout();
             // 
             // btnXemFile
@@ -91,100 +94,9 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.btnXemFile.Style = Sunny.UI.UIStyle.Custom;
             this.btnXemFile.StyleCustomMode = true;
             this.btnXemFile.TabIndex = 103;
-            this.btnXemFile.Text = "Xem file bài báo";
+            this.btnXemFile.Text = "Tải file bài viết";
             this.btnXemFile.TipsFont = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // grvBaiBao
-            // 
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
-            this.grvBaiBao.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle6;
-            this.grvBaiBao.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.grvBaiBao.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
-            this.grvBaiBao.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(160)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(160)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.grvBaiBao.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle7;
-            this.grvBaiBao.ColumnHeadersHeight = 32;
-            this.grvBaiBao.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
-            this.grvBaiBao.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.MaBaiBao,
-            this.TenBaiBao,
-            this.TieuDe,
-            this.NgayGui,
-            this.TrangThai});
-            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle8.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(236)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.grvBaiBao.DefaultCellStyle = dataGridViewCellStyle8;
-            this.grvBaiBao.EnableHeadersVisualStyles = false;
-            this.grvBaiBao.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.grvBaiBao.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(104)))), ((int)(((byte)(173)))), ((int)(((byte)(255)))));
-            this.grvBaiBao.Location = new System.Drawing.Point(20, 136);
-            this.grvBaiBao.Name = "grvBaiBao";
-            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle9.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(160)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.grvBaiBao.RowHeadersDefaultCellStyle = dataGridViewCellStyle9;
-            this.grvBaiBao.RowHeadersWidth = 51;
-            dataGridViewCellStyle10.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle10.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(236)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.grvBaiBao.RowsDefaultCellStyle = dataGridViewCellStyle10;
-            this.grvBaiBao.RowTemplate.Height = 23;
-            this.grvBaiBao.SelectedIndex = -1;
-            this.grvBaiBao.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.grvBaiBao.Size = new System.Drawing.Size(1095, 189);
-            this.grvBaiBao.TabIndex = 102;
-            // 
-            // MaBaiBao
-            // 
-            this.MaBaiBao.DataPropertyName = "MaBaiBao";
-            this.MaBaiBao.HeaderText = "Mã bài báo";
-            this.MaBaiBao.MinimumWidth = 6;
-            this.MaBaiBao.Name = "MaBaiBao";
-            // 
-            // TenBaiBao
-            // 
-            this.TenBaiBao.DataPropertyName = "TenBaiBao";
-            this.TenBaiBao.HeaderText = "Tên bài báo";
-            this.TenBaiBao.MinimumWidth = 6;
-            this.TenBaiBao.Name = "TenBaiBao";
-            // 
-            // TieuDe
-            // 
-            this.TieuDe.DataPropertyName = "TieuDe";
-            this.TieuDe.HeaderText = "Tiêu đề";
-            this.TieuDe.MinimumWidth = 6;
-            this.TieuDe.Name = "TieuDe";
-            // 
-            // NgayGui
-            // 
-            this.NgayGui.DataPropertyName = "NgayGui";
-            this.NgayGui.HeaderText = "Ngày gửi";
-            this.NgayGui.MinimumWidth = 6;
-            this.NgayGui.Name = "NgayGui";
-            // 
-            // TrangThai
-            // 
-            this.TrangThai.DataPropertyName = "TrangThai";
-            this.TrangThai.HeaderText = "Trạng thái";
-            this.TrangThai.MinimumWidth = 6;
-            this.TrangThai.Name = "TrangThai";
+            this.btnXemFile.Click += new System.EventHandler(this.btnXemFile_Click);
             // 
             // cboChuyenMuc
             // 
@@ -252,7 +164,7 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             // 
             this.dateDenNgay.FillColor = System.Drawing.Color.White;
             this.dateDenNgay.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.dateDenNgay.Location = new System.Drawing.Point(282, 84);
+            this.dateDenNgay.Location = new System.Drawing.Point(214, 84);
             this.dateDenNgay.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dateDenNgay.MaxLength = 10;
             this.dateDenNgay.MinimumSize = new System.Drawing.Size(63, 0);
@@ -263,6 +175,7 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.dateDenNgay.SymbolNormal = 61555;
             this.dateDenNgay.SymbolSize = 24;
             this.dateDenNgay.TabIndex = 97;
+            this.dateDenNgay.Text = "2024-10-18";
             this.dateDenNgay.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.dateDenNgay.Value = new System.DateTime(2024, 10, 18, 21, 13, 6, 512);
             this.dateDenNgay.Watermark = "";
@@ -282,6 +195,7 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.dateTuNgay.SymbolNormal = 61555;
             this.dateTuNgay.SymbolSize = 24;
             this.dateTuNgay.TabIndex = 96;
+            this.dateTuNgay.Text = "2024-10-18";
             this.dateTuNgay.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
             this.dateTuNgay.Value = new System.DateTime(2024, 10, 18, 21, 13, 6, 512);
             this.dateTuNgay.Watermark = "";
@@ -292,7 +206,7 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.uiLabel3.BackColor = System.Drawing.Color.Transparent;
             this.uiLabel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.uiLabel3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel3.Location = new System.Drawing.Point(277, 54);
+            this.uiLabel3.Location = new System.Drawing.Point(209, 54);
             this.uiLabel3.Name = "uiLabel3";
             this.uiLabel3.Size = new System.Drawing.Size(96, 25);
             this.uiLabel3.TabIndex = 95;
@@ -318,23 +232,19 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.uiLabel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
             this.uiLabel1.Location = new System.Drawing.Point(481, 9);
             this.uiLabel1.Name = "uiLabel1";
-            this.uiLabel1.Size = new System.Drawing.Size(232, 25);
+            this.uiLabel1.Size = new System.Drawing.Size(235, 25);
             this.uiLabel1.TabIndex = 93;
-            this.uiLabel1.Text = "DANH SÁCH BÀI BÁO";
+            this.uiLabel1.Text = "DANH SÁCH BÀI VIẾT";
             // 
             // uiTitlePanel1
             // 
+            this.uiTitlePanel1.Controls.Add(this.txtMaBaiBao);
             this.uiTitlePanel1.Controls.Add(this.btnDangBai);
-            this.uiTitlePanel1.Controls.Add(this.dateNgayDang);
-            this.uiTitlePanel1.Controls.Add(this.uiLabel10);
             this.uiTitlePanel1.Controls.Add(this.uiLabel9);
             this.uiTitlePanel1.Controls.Add(this.AnhBia);
-            this.uiTitlePanel1.Controls.Add(this.uiDatePicker1);
+            this.uiTitlePanel1.Controls.Add(this.dateNXB);
             this.uiTitlePanel1.Controls.Add(this.uiLabel8);
-            this.uiTitlePanel1.Controls.Add(this.uiComboBox1);
             this.uiTitlePanel1.Controls.Add(this.uiLabel7);
-            this.uiTitlePanel1.Controls.Add(this.txtTenSoTapChi);
-            this.uiTitlePanel1.Controls.Add(this.uiLabel12);
             this.uiTitlePanel1.Controls.Add(this.cboMaSoTapChi);
             this.uiTitlePanel1.Controls.Add(this.uiLabel6);
             this.uiTitlePanel1.Font = new System.Drawing.Font("Microsoft YaHei", 12F);
@@ -349,178 +259,21 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.uiTitlePanel1.Text = "Lên lịch đăng bài";
             this.uiTitlePanel1.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // cboMaSoTapChi
+            // txtMaBaiBao
             // 
-            this.cboMaSoTapChi.DataSource = null;
-            this.cboMaSoTapChi.DropDownStyle = Sunny.UI.UIDropDownStyle.DropDownList;
-            this.cboMaSoTapChi.FillColor = System.Drawing.Color.White;
-            this.cboMaSoTapChi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.cboMaSoTapChi.ItemHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(200)))), ((int)(((byte)(255)))));
-            this.cboMaSoTapChi.ItemSelectForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
-            this.cboMaSoTapChi.Location = new System.Drawing.Point(190, 44);
-            this.cboMaSoTapChi.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.cboMaSoTapChi.MinimumSize = new System.Drawing.Size(63, 0);
-            this.cboMaSoTapChi.Name = "cboMaSoTapChi";
-            this.cboMaSoTapChi.Padding = new System.Windows.Forms.Padding(0, 0, 30, 2);
-            this.cboMaSoTapChi.Size = new System.Drawing.Size(215, 33);
-            this.cboMaSoTapChi.SymbolSize = 24;
-            this.cboMaSoTapChi.TabIndex = 106;
-            this.cboMaSoTapChi.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
-            this.cboMaSoTapChi.Watermark = "";
-            // 
-            // uiLabel6
-            // 
-            this.uiLabel6.AutoSize = true;
-            this.uiLabel6.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiLabel6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel6.Location = new System.Drawing.Point(3, 52);
-            this.uiLabel6.Name = "uiLabel6";
-            this.uiLabel6.Size = new System.Drawing.Size(180, 25);
-            this.uiLabel6.TabIndex = 105;
-            this.uiLabel6.Text = "Chọn mã số tạp chí";
-            // 
-            // txtTenSoTapChi
-            // 
-            this.txtTenSoTapChi.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txtTenSoTapChi.Enabled = false;
-            this.txtTenSoTapChi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.txtTenSoTapChi.Location = new System.Drawing.Point(190, 87);
-            this.txtTenSoTapChi.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.txtTenSoTapChi.MinimumSize = new System.Drawing.Size(1, 16);
-            this.txtTenSoTapChi.Name = "txtTenSoTapChi";
-            this.txtTenSoTapChi.Padding = new System.Windows.Forms.Padding(5);
-            this.txtTenSoTapChi.ShowText = false;
-            this.txtTenSoTapChi.Size = new System.Drawing.Size(215, 33);
-            this.txtTenSoTapChi.TabIndex = 108;
-            this.txtTenSoTapChi.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
-            this.txtTenSoTapChi.Watermark = "";
-            // 
-            // uiLabel12
-            // 
-            this.uiLabel12.AutoSize = true;
-            this.uiLabel12.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiLabel12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel12.Location = new System.Drawing.Point(3, 95);
-            this.uiLabel12.Name = "uiLabel12";
-            this.uiLabel12.Size = new System.Drawing.Size(135, 25);
-            this.uiLabel12.TabIndex = 107;
-            this.uiLabel12.Text = "Tên số tạp chí";
-            // 
-            // uiLabel7
-            // 
-            this.uiLabel7.AutoSize = true;
-            this.uiLabel7.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiLabel7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel7.Location = new System.Drawing.Point(564, 52);
-            this.uiLabel7.Name = "uiLabel7";
-            this.uiLabel7.Size = new System.Drawing.Size(109, 25);
-            this.uiLabel7.TabIndex = 109;
-            this.uiLabel7.Text = "Mã bài báo";
-            // 
-            // uiComboBox1
-            // 
-            this.uiComboBox1.DataSource = null;
-            this.uiComboBox1.DropDownStyle = Sunny.UI.UIDropDownStyle.DropDownList;
-            this.uiComboBox1.FillColor = System.Drawing.Color.White;
-            this.uiComboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiComboBox1.ItemHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(200)))), ((int)(((byte)(255)))));
-            this.uiComboBox1.ItemSelectForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
-            this.uiComboBox1.Location = new System.Drawing.Point(728, 44);
-            this.uiComboBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiComboBox1.MinimumSize = new System.Drawing.Size(63, 0);
-            this.uiComboBox1.Name = "uiComboBox1";
-            this.uiComboBox1.Padding = new System.Windows.Forms.Padding(0, 0, 30, 2);
-            this.uiComboBox1.Size = new System.Drawing.Size(215, 33);
-            this.uiComboBox1.SymbolSize = 24;
-            this.uiComboBox1.TabIndex = 107;
-            this.uiComboBox1.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiComboBox1.Watermark = "";
-            // 
-            // uiDatePicker1
-            // 
-            this.uiDatePicker1.FillColor = System.Drawing.Color.White;
-            this.uiDatePicker1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiDatePicker1.Location = new System.Drawing.Point(190, 130);
-            this.uiDatePicker1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uiDatePicker1.MaxLength = 10;
-            this.uiDatePicker1.MinimumSize = new System.Drawing.Size(63, 0);
-            this.uiDatePicker1.Name = "uiDatePicker1";
-            this.uiDatePicker1.Padding = new System.Windows.Forms.Padding(0, 0, 30, 2);
-            this.uiDatePicker1.Size = new System.Drawing.Size(215, 33);
-            this.uiDatePicker1.SymbolDropDown = 61555;
-            this.uiDatePicker1.SymbolNormal = 61555;
-            this.uiDatePicker1.SymbolSize = 24;
-            this.uiDatePicker1.TabIndex = 111;
-            this.uiDatePicker1.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
-            this.uiDatePicker1.Value = new System.DateTime(2024, 10, 18, 21, 13, 6, 512);
-            this.uiDatePicker1.Watermark = "";
-            // 
-            // uiLabel8
-            // 
-            this.uiLabel8.AutoSize = true;
-            this.uiLabel8.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiLabel8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel8.Location = new System.Drawing.Point(3, 138);
-            this.uiLabel8.Name = "uiLabel8";
-            this.uiLabel8.Size = new System.Drawing.Size(138, 25);
-            this.uiLabel8.TabIndex = 110;
-            this.uiLabel8.Text = "Ngày xuất bản";
-            // 
-            // AnhBia
-            // 
-            this.AnhBia.BackColor = System.Drawing.Color.Silver;
-            this.AnhBia.Location = new System.Drawing.Point(194, 171);
-            this.AnhBia.Name = "AnhBia";
-            this.AnhBia.Size = new System.Drawing.Size(211, 143);
-            this.AnhBia.TabIndex = 120;
-            this.AnhBia.TabStop = false;
-            // 
-            // uiLabel9
-            // 
-            this.uiLabel9.AutoSize = true;
-            this.uiLabel9.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiLabel9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel9.Location = new System.Drawing.Point(3, 184);
-            this.uiLabel9.Name = "uiLabel9";
-            this.uiLabel9.Size = new System.Drawing.Size(79, 25);
-            this.uiLabel9.TabIndex = 121;
-            this.uiLabel9.Text = "Ảnh bìa";
-            // 
-            // dateNgayDang
-            // 
-            this.dateNgayDang.FillColor = System.Drawing.Color.White;
-            this.dateNgayDang.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.dateNgayDang.Location = new System.Drawing.Point(728, 86);
-            this.dateNgayDang.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.dateNgayDang.MaxLength = 10;
-            this.dateNgayDang.MinimumSize = new System.Drawing.Size(63, 0);
-            this.dateNgayDang.Name = "dateNgayDang";
-            this.dateNgayDang.Padding = new System.Windows.Forms.Padding(0, 0, 30, 2);
-            this.dateNgayDang.Size = new System.Drawing.Size(215, 34);
-            this.dateNgayDang.SymbolDropDown = 61555;
-            this.dateNgayDang.SymbolNormal = 61555;
-            this.dateNgayDang.SymbolSize = 24;
-            this.dateNgayDang.TabIndex = 123;
-            this.dateNgayDang.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
-            this.dateNgayDang.Value = new System.DateTime(2024, 10, 18, 21, 13, 6, 512);
-            this.dateNgayDang.Watermark = "";
-            // 
-            // uiLabel10
-            // 
-            this.uiLabel10.AutoSize = true;
-            this.uiLabel10.BackColor = System.Drawing.Color.Transparent;
-            this.uiLabel10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.uiLabel10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            this.uiLabel10.Location = new System.Drawing.Point(564, 95);
-            this.uiLabel10.Name = "uiLabel10";
-            this.uiLabel10.Size = new System.Drawing.Size(157, 25);
-            this.uiLabel10.TabIndex = 122;
-            this.uiLabel10.Text = "Chọn ngày đăng";
+            this.txtMaBaiBao.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtMaBaiBao.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.txtMaBaiBao.Location = new System.Drawing.Point(728, 52);
+            this.txtMaBaiBao.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtMaBaiBao.MinimumSize = new System.Drawing.Size(1, 16);
+            this.txtMaBaiBao.Name = "txtMaBaiBao";
+            this.txtMaBaiBao.Padding = new System.Windows.Forms.Padding(5);
+            this.txtMaBaiBao.ReadOnly = true;
+            this.txtMaBaiBao.ShowText = false;
+            this.txtMaBaiBao.Size = new System.Drawing.Size(215, 33);
+            this.txtMaBaiBao.TabIndex = 125;
+            this.txtMaBaiBao.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.txtMaBaiBao.Watermark = "";
             // 
             // btnDangBai
             // 
@@ -535,6 +288,275 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.btnDangBai.TabIndex = 124;
             this.btnDangBai.Text = "Đăng bài";
             this.btnDangBai.TipsFont = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnDangBai.Click += new System.EventHandler(this.btnDangBai_Click);
+            // 
+            // uiLabel9
+            // 
+            this.uiLabel9.AutoSize = true;
+            this.uiLabel9.BackColor = System.Drawing.Color.Transparent;
+            this.uiLabel9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.uiLabel9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            this.uiLabel9.Location = new System.Drawing.Point(3, 138);
+            this.uiLabel9.Name = "uiLabel9";
+            this.uiLabel9.Size = new System.Drawing.Size(79, 25);
+            this.uiLabel9.TabIndex = 121;
+            this.uiLabel9.Text = "Ảnh bìa";
+            // 
+            // AnhBia
+            // 
+            this.AnhBia.BackColor = System.Drawing.Color.Silver;
+            this.AnhBia.Location = new System.Drawing.Point(194, 136);
+            this.AnhBia.Name = "AnhBia";
+            this.AnhBia.Size = new System.Drawing.Size(211, 178);
+            this.AnhBia.TabIndex = 120;
+            this.AnhBia.TabStop = false;
+            this.AnhBia.Click += new System.EventHandler(this.AnhBia_Click);
+            // 
+            // dateNXB
+            // 
+            this.dateNXB.FillColor = System.Drawing.Color.White;
+            this.dateNXB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.dateNXB.Location = new System.Drawing.Point(190, 95);
+            this.dateNXB.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.dateNXB.MaxLength = 10;
+            this.dateNXB.MinimumSize = new System.Drawing.Size(63, 0);
+            this.dateNXB.Name = "dateNXB";
+            this.dateNXB.Padding = new System.Windows.Forms.Padding(0, 0, 30, 2);
+            this.dateNXB.Size = new System.Drawing.Size(215, 33);
+            this.dateNXB.SymbolDropDown = 61555;
+            this.dateNXB.SymbolNormal = 61555;
+            this.dateNXB.SymbolSize = 24;
+            this.dateNXB.TabIndex = 111;
+            this.dateNXB.Text = "2024-10-18";
+            this.dateNXB.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.dateNXB.Value = new System.DateTime(2024, 10, 18, 21, 13, 6, 512);
+            this.dateNXB.Watermark = "";
+            // 
+            // uiLabel8
+            // 
+            this.uiLabel8.AutoSize = true;
+            this.uiLabel8.BackColor = System.Drawing.Color.Transparent;
+            this.uiLabel8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.uiLabel8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            this.uiLabel8.Location = new System.Drawing.Point(3, 95);
+            this.uiLabel8.Name = "uiLabel8";
+            this.uiLabel8.Size = new System.Drawing.Size(138, 25);
+            this.uiLabel8.TabIndex = 110;
+            this.uiLabel8.Text = "Ngày xuất bản";
+            // 
+            // uiLabel7
+            // 
+            this.uiLabel7.AutoSize = true;
+            this.uiLabel7.BackColor = System.Drawing.Color.Transparent;
+            this.uiLabel7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.uiLabel7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            this.uiLabel7.Location = new System.Drawing.Point(612, 60);
+            this.uiLabel7.Name = "uiLabel7";
+            this.uiLabel7.Size = new System.Drawing.Size(109, 25);
+            this.uiLabel7.TabIndex = 109;
+            this.uiLabel7.Text = "Mã bài báo";
+            // 
+            // cboMaSoTapChi
+            // 
+            this.cboMaSoTapChi.DataSource = null;
+            this.cboMaSoTapChi.DropDownStyle = Sunny.UI.UIDropDownStyle.DropDownList;
+            this.cboMaSoTapChi.FillColor = System.Drawing.Color.White;
+            this.cboMaSoTapChi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.cboMaSoTapChi.ItemHoverColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(200)))), ((int)(((byte)(255)))));
+            this.cboMaSoTapChi.ItemSelectForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
+            this.cboMaSoTapChi.Location = new System.Drawing.Point(190, 52);
+            this.cboMaSoTapChi.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.cboMaSoTapChi.MinimumSize = new System.Drawing.Size(63, 0);
+            this.cboMaSoTapChi.Name = "cboMaSoTapChi";
+            this.cboMaSoTapChi.Padding = new System.Windows.Forms.Padding(0, 0, 30, 2);
+            this.cboMaSoTapChi.Size = new System.Drawing.Size(215, 33);
+            this.cboMaSoTapChi.SymbolSize = 24;
+            this.cboMaSoTapChi.TabIndex = 106;
+            this.cboMaSoTapChi.TextAlignment = System.Drawing.ContentAlignment.MiddleLeft;
+            this.cboMaSoTapChi.Watermark = "";
+            this.cboMaSoTapChi.SelectedIndexChanged += new System.EventHandler(this.cboMaSoTapChi_SelectedIndexChanged);
+            // 
+            // uiLabel6
+            // 
+            this.uiLabel6.AutoSize = true;
+            this.uiLabel6.BackColor = System.Drawing.Color.Transparent;
+            this.uiLabel6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.uiLabel6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            this.uiLabel6.Location = new System.Drawing.Point(3, 60);
+            this.uiLabel6.Name = "uiLabel6";
+            this.uiLabel6.Size = new System.Drawing.Size(180, 25);
+            this.uiLabel6.TabIndex = 105;
+            this.uiLabel6.Text = "Chọn mã số tạp chí";
+            // 
+            // ChkLocNgay
+            // 
+            this.ChkLocNgay.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ChkLocNgay.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.ChkLocNgay.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            this.ChkLocNgay.Location = new System.Drawing.Point(379, 89);
+            this.ChkLocNgay.MinimumSize = new System.Drawing.Size(1, 1);
+            this.ChkLocNgay.Name = "ChkLocNgay";
+            this.ChkLocNgay.Size = new System.Drawing.Size(79, 29);
+            this.ChkLocNgay.TabIndex = 174;
+            this.ChkLocNgay.Text = "Lọc";
+            this.ChkLocNgay.CheckedChanged += new System.EventHandler(this.ChkLocNgay_CheckedChanged);
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
+            this.progressBar1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.progressBar1.Location = new System.Drawing.Point(413, 331);
+            this.progressBar1.MinimumSize = new System.Drawing.Size(3, 3);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(300, 29);
+            this.progressBar1.TabIndex = 126;
+            this.progressBar1.Text = "uiProcessBar1";
+            this.progressBar1.Visible = false;
+            // 
+            // grvBaiBao
+            // 
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
+            this.grvBaiBao.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.grvBaiBao.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.grvBaiBao.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
+            this.grvBaiBao.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(160)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(160)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.grvBaiBao.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.grvBaiBao.ColumnHeadersHeight = 32;
+            this.grvBaiBao.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            this.grvBaiBao.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.MaBaiBao,
+            this.TenBaiBao,
+            this.TieuDe,
+            this.TenNgonNgu,
+            this.TenChuyenMuc,
+            this.FileBaiViet,
+            this.NgayGui,
+            this.TrangThai,
+            this.MaNgonNgu,
+            this.MaChuyenMuc});
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(236)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.grvBaiBao.DefaultCellStyle = dataGridViewCellStyle3;
+            this.grvBaiBao.EnableHeadersVisualStyles = false;
+            this.grvBaiBao.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.grvBaiBao.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(104)))), ((int)(((byte)(173)))), ((int)(((byte)(255)))));
+            this.grvBaiBao.Location = new System.Drawing.Point(20, 126);
+            this.grvBaiBao.Name = "grvBaiBao";
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(249)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(160)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.grvBaiBao.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
+            this.grvBaiBao.RowHeadersWidth = 51;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(236)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            this.grvBaiBao.RowsDefaultCellStyle = dataGridViewCellStyle5;
+            this.grvBaiBao.RowTemplate.Height = 23;
+            this.grvBaiBao.SelectedIndex = -1;
+            this.grvBaiBao.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.grvBaiBao.Size = new System.Drawing.Size(1095, 189);
+            this.grvBaiBao.TabIndex = 175;
+            this.grvBaiBao.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grvBaiBao_CellClick);
+            // 
+            // MaBaiBao
+            // 
+            this.MaBaiBao.DataPropertyName = "MaBaiBao";
+            this.MaBaiBao.HeaderText = "Mã bài viết";
+            this.MaBaiBao.MinimumWidth = 6;
+            this.MaBaiBao.Name = "MaBaiBao";
+            this.MaBaiBao.Width = 146;
+            // 
+            // TenBaiBao
+            // 
+            this.TenBaiBao.DataPropertyName = "TenBaiBao";
+            this.TenBaiBao.HeaderText = "Tên bài viết";
+            this.TenBaiBao.MinimumWidth = 6;
+            this.TenBaiBao.Name = "TenBaiBao";
+            this.TenBaiBao.Width = 149;
+            // 
+            // TieuDe
+            // 
+            this.TieuDe.DataPropertyName = "TieuDe";
+            this.TieuDe.HeaderText = "Tiêu đề";
+            this.TieuDe.MinimumWidth = 6;
+            this.TieuDe.Name = "TieuDe";
+            this.TieuDe.Width = 109;
+            // 
+            // TenNgonNgu
+            // 
+            this.TenNgonNgu.DataPropertyName = "TenNgonNgu";
+            this.TenNgonNgu.HeaderText = "Ngôn Ngữ";
+            this.TenNgonNgu.MinimumWidth = 6;
+            this.TenNgonNgu.Name = "TenNgonNgu";
+            this.TenNgonNgu.Width = 140;
+            // 
+            // TenChuyenMuc
+            // 
+            this.TenChuyenMuc.DataPropertyName = "TenChuyenMuc";
+            this.TenChuyenMuc.HeaderText = "Tên Chuyên Mục";
+            this.TenChuyenMuc.MinimumWidth = 6;
+            this.TenChuyenMuc.Name = "TenChuyenMuc";
+            this.TenChuyenMuc.Width = 198;
+            // 
+            // FileBaiViet
+            // 
+            this.FileBaiViet.DataPropertyName = "FileBaiViet";
+            this.FileBaiViet.HeaderText = "File";
+            this.FileBaiViet.MinimumWidth = 6;
+            this.FileBaiViet.Name = "FileBaiViet";
+            this.FileBaiViet.Width = 72;
+            // 
+            // NgayGui
+            // 
+            this.NgayGui.DataPropertyName = "NgayGui";
+            this.NgayGui.HeaderText = "Ngày gửi";
+            this.NgayGui.MinimumWidth = 6;
+            this.NgayGui.Name = "NgayGui";
+            this.NgayGui.Width = 126;
+            // 
+            // TrangThai
+            // 
+            this.TrangThai.DataPropertyName = "TrangThai";
+            this.TrangThai.HeaderText = "Trạng thái";
+            this.TrangThai.MinimumWidth = 6;
+            this.TrangThai.Name = "TrangThai";
+            this.TrangThai.Width = 136;
+            // 
+            // MaNgonNgu
+            // 
+            this.MaNgonNgu.DataPropertyName = "MaNgonNgu";
+            this.MaNgonNgu.HeaderText = "Mã ngôn ngữ";
+            this.MaNgonNgu.MinimumWidth = 6;
+            this.MaNgonNgu.Name = "MaNgonNgu";
+            this.MaNgonNgu.Visible = false;
+            this.MaNgonNgu.Width = 169;
+            // 
+            // MaChuyenMuc
+            // 
+            this.MaChuyenMuc.DataPropertyName = "MaChuyenMuc";
+            this.MaChuyenMuc.HeaderText = "Mã chuyên mục";
+            this.MaChuyenMuc.MinimumWidth = 6;
+            this.MaChuyenMuc.Name = "MaChuyenMuc";
+            this.MaChuyenMuc.Visible = false;
+            this.MaChuyenMuc.Width = 191;
             // 
             // DangBai
             // 
@@ -542,9 +564,11 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1218, 769);
+            this.Controls.Add(this.grvBaiBao);
+            this.Controls.Add(this.progressBar1);
+            this.Controls.Add(this.ChkLocNgay);
             this.Controls.Add(this.uiTitlePanel1);
             this.Controls.Add(this.btnXemFile);
-            this.Controls.Add(this.grvBaiBao);
             this.Controls.Add(this.cboChuyenMuc);
             this.Controls.Add(this.uiLabel5);
             this.Controls.Add(this.cboNgonNgu);
@@ -557,10 +581,11 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "DangBai";
             this.Text = "DangBai";
-            ((System.ComponentModel.ISupportInitialize)(this.grvBaiBao)).EndInit();
+            this.Load += new System.EventHandler(this.DangBai_Load);
             this.uiTitlePanel1.ResumeLayout(false);
             this.uiTitlePanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.AnhBia)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grvBaiBao)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -569,12 +594,6 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
         #endregion
 
         private Sunny.UI.UIButton btnXemFile;
-        private Sunny.UI.UIDataGridView grvBaiBao;
-        private System.Windows.Forms.DataGridViewTextBoxColumn MaBaiBao;
-        private System.Windows.Forms.DataGridViewTextBoxColumn TenBaiBao;
-        private System.Windows.Forms.DataGridViewTextBoxColumn TieuDe;
-        private System.Windows.Forms.DataGridViewTextBoxColumn NgayGui;
-        private System.Windows.Forms.DataGridViewTextBoxColumn TrangThai;
         private Sunny.UI.UIComboBox cboChuyenMuc;
         private Sunny.UI.UILabel uiLabel5;
         private Sunny.UI.UIComboBox cboNgonNgu;
@@ -587,16 +606,25 @@ namespace QuanLyBaiBaoKHCN.BienTapVien
         private Sunny.UI.UITitlePanel uiTitlePanel1;
         private Sunny.UI.UIComboBox cboMaSoTapChi;
         private Sunny.UI.UILabel uiLabel6;
-        private Sunny.UI.UITextBox txtTenSoTapChi;
-        private Sunny.UI.UILabel uiLabel12;
-        private Sunny.UI.UIComboBox uiComboBox1;
         private Sunny.UI.UILabel uiLabel7;
-        private Sunny.UI.UIDatePicker uiDatePicker1;
+        private Sunny.UI.UIDatePicker dateNXB;
         private Sunny.UI.UILabel uiLabel8;
         private Sunny.UI.UILabel uiLabel9;
         private System.Windows.Forms.PictureBox AnhBia;
-        private Sunny.UI.UIDatePicker dateNgayDang;
-        private Sunny.UI.UILabel uiLabel10;
         private Sunny.UI.UISymbolButton btnDangBai;
+        private Sunny.UI.UICheckBox ChkLocNgay;
+        private Sunny.UI.UIProcessBar progressBar1;
+        private Sunny.UI.UITextBox txtMaBaiBao;
+        private Sunny.UI.UIDataGridView grvBaiBao;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MaBaiBao;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenBaiBao;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TieuDe;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenNgonNgu;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenChuyenMuc;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FileBaiViet;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NgayGui;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TrangThai;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MaNgonNgu;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MaChuyenMuc;
     }
 }

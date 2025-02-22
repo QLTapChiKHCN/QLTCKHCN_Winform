@@ -44,3 +44,435 @@ F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLy
 F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
 F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
 F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+F:\Của t\DOANPTPMTM\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ThongKe.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+C:\Users\Hao Le\Documents\Zalo Received Files\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.FConfig.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ThongKe.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.FConfig.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+D:\study\đồ án NCKH\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.PhanHoi.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ThongKe.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.FConfig.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_PhanHoi.resources
+F:\Của t\DOANTT\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.KetQuaPhanBien.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_PhanHoi.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.KetQuaPhanBien.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ThongKe.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.FConfig.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\file Đức\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_PhanHoi.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.KetQuaPhanBien.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ThongKe.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.FConfig.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBa.C7AB0FC9.Up2Date
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_PhanHoi.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.KetQuaPhanBien.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ThongKe.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.FConfig.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\.TongHop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe.config
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.Common.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\SunnyUI.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Newtonsoft.Json.xml
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ChonPhanBien.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.DangBai.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Form_Main.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_YeuCauChinhSua.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.Frm_PhanHoi.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.KetQuaPhanBien.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.SoDuyet.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.TaoSoTapChi.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.BienTapVien.ThongKe.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.CaiDat.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.FConfig.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Login.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.Properties.Resources.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetBaiViet.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.DuyetPhanBien.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TongBienTap.FMain.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.TrangChu.resources
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.GenerateResource.cache
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CoreCompileInputs.cache
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.CopyComplete
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.exe
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.pdb
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Buffers.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Memory.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Numerics.Vectors.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Buffers.xml
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Memory.xml
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Numerics.Vectors.xml
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\netstandard.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.AppContext.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.Concurrent.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.NonGeneric.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.Specialized.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Console.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Data.Common.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Contracts.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Debug.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Process.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Tools.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Tracing.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Drawing.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Dynamic.Runtime.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Globalization.Calendars.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Globalization.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Globalization.Extensions.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.Compression.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.IsolatedStorage.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.Pipes.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.Expressions.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.Parallel.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.Queryable.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Http.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.NameResolution.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.NetworkInformation.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Ping.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Requests.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Security.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Sockets.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.WebSockets.Client.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.WebSockets.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ObjectModel.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Reflection.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Reflection.Extensions.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Reflection.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Resources.Reader.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Resources.ResourceManager.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Resources.Writer.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Extensions.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Handles.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.InteropServices.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Numerics.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Claims.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Principal.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.SecureString.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Text.Encoding.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Text.RegularExpressions.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Overlapped.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Tasks.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Thread.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.ThreadPool.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Timer.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ValueTuple.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.ReaderWriter.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XDocument.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XmlDocument.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XmlSerializer.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XPath.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\obj\Debug\QuanLyBaiBaoKHCN.csproj.AssemblyReference.cache
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\study\đồ án NCKH\.TongHop\file mới nhất 4.12.2024\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\netstandard.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.AppContext.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Console.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Data.Common.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Globalization.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.Compression.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.Pipes.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Http.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Ping.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Requests.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Security.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.Sockets.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ObjectModel.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Reflection.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Resources.Reader.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Resources.Writer.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Claims.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.Principal.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Security.SecureString.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Text.Encoding.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Thread.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Threading.Timer.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.ValueTuple.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XPath.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Buffers.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Memory.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Buffers.xml
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Memory.xml
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Windows\Desktop\Winform_QuanLyBaiBaoKHCN\QuanLyBaiBaoKHCN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

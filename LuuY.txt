@@ -1,0 +1,8 @@
+Lưu ý nếu chạy không được sao lưu:
+- Kiểm tra dll:
+ + Assembly Microsoft.SqlServer.ConnectionInfo
+    C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.SqlServer.ConnectionInfo\v4.0_16.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.ConnectionInfo.dll
+ + Assembly Microsoft.SqlServer.Smo
+    C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.SqlServer.Smo\v4.0_16.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.Smo.dll
+ + Assembly Microsoft.SqlServer.SmoExtended
+    C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.SqlServer.SmoExtended\v4.0_16.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.SmoExtended.dll
